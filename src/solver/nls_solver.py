@@ -1,3 +1,8 @@
+"""License BSD-3-Clause
+Copyright (c) 2025, University of Bonn.
+Author: Shahram Khorshidi
+"""
+
 import time
 import numpy as np
 import casadi as ca

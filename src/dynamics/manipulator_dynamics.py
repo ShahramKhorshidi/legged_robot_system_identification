@@ -1,3 +1,8 @@
+"""License BSD-3-Clause
+Copyright (c) 2025, University of Bonn.
+Author: Shahram Khorshidi
+"""
+
 import numpy as np
 import pinocchio as pin
 from src.dynamics.rigid_body_dynamics import RigidBodyDynamics
